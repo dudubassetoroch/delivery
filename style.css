@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+}
+
+.endereco{
+    display: flex;
+    justify-content: center;
+}
+
+.nome-rua{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.set-end{
+    width: 15px;
+    padding: 8px;
+}
+
+.endereco-link{
+    color: black;
+}
+
+.sino{
+    width: 20px;
+    margin-top: 14px;
+}
+
+.notificacao-container{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-radius: 50%;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.rest-marc{
+    display: flex;
+    margin-top: 35px;
+}
+
+.title-card{
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.restaurante-card{
+    background-color: #f3f3f3;
+   border-radius: 15px;
+    width: 48%;
+    margin: 1%;
+    height: 130px;
+   
+}
+
+.img-card{
+    width: 105px;
+    margin-left: 30%;
+}
+
+.img-card-menor{
+    width: 50px;
+    margin-top: 8px;
+}
+
+.FBCV{
+    display: flex;
+}
+
+.farmacia-card{
+    background-color: #f3f3f3;
+    border-radius: 15px;
+    width: 24%;
+    margin: 1%;
+    text-align: center;
+    height: 100px;
+}
+
+.title-card-menor{
+    font-weight: bold;
+}
+
+.container-emp-perto{
+    margin-top: 15px;
+}
+
+.faxa{
+    display: flex;
+    justify-content: space-between;
+}
+
+.VerMaisEmp{
+    color: red;
+    margin-top: 29px;
+}
+
+h2{
+    padding-left: 5px;
+}
+
+.empresas-perto{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+   padding: 5px;
+}
+
+.container-emp{
+    display: flex;
+}
+
+.flecha-end{
+    fill: tomato;
+    width: 30px;
+    margin-top: 15px;
+}
+
+.header-end{
+    display: flex;
+}
+
+h3{
+    margin-left: 15%;
+}
+
+.pesq-end{
+    background-color: #f3f3f3;
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    margin-top: 35px;
+}
+
+.lupa-end{
+    fill: tomato;
+    width: 25px;
+    padding: 5px;
+}
+
+.pesq-endereco{
+    border: none;
+    background-color: #f3f3f3;
+}
+
+.pesq-endereco::placeholder{
+    font-weight: bold;
+}
+
+.house-svg{
+    width: 25px;
+    margin-top: 100%;
+}
+
+.card-endereco{
+    border: 1px solid tomato;
+    width: 89.5%;
+    margin-left: 5%;
+    margin-top: 50px;
+    
+}
+
+.chek{
+    width: 20px;
+    fill: tomato;
+}
+
+.cabecario-rua{
+    display: flex;
+}
+
+.svg-footer{
+    width: 20px;
+}
+
+.card-footer{
+   height: 50px;
+    width: 20%;
+    text-align: center;
+    margin: 5%;
+}
+
+.footer{
+    display: flex;
+    
+}
+
+.footer{
+  
+    margin-top: 68px;
+}
+
+a{
+    color: black;
+}
+
+.card-categoria{
+    background-color: #f3f3f3;
+    width: 40%;
+    margin: 5%;
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.categoria-titulo{
+    color: white;
+    font-weight: bold;
+
+}
